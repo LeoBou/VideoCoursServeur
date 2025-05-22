@@ -19,4 +19,6 @@
 
 [GPO](https://youtu.be/4hXqcf3txZM)
 
+[Démo Script sauvegarde + Automatisation](https://youtu.be/NzINFIUwZ5c)
+
 
